@@ -1,0 +1,68 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LowEntryExtendedStandardLibrary.cpp.obj": [
+			"LowEntryBitDataEntry.cpp.obj",
+			"LowEntryBitDataReader.cpp.obj",
+			"LowEntryBitDataWriter.cpp.obj",
+			"LowEntryByteArray.cpp.obj",
+			"LowEntryByteDataEntry.cpp.obj",
+			"LowEntryByteDataReader.cpp.obj",
+			"LowEntryByteDataWriter.cpp.obj",
+			"LowEntryExecutionQueue.cpp.obj",
+			"LowEntryExtendedStandardLibrary.cpp.obj",
+			"LowEntryHashingBCryptLibrary.cpp.obj",
+			"LowEntryHashingHashcashLibrary.cpp.obj",
+			"LowEntryHashingPearsonLibrary.cpp.obj",
+			"LowEntryHashingSha256Library.cpp.obj",
+			"LowEntryHashingSha512Library.cpp.obj",
+			"LowEntryParsedHashcash.cpp.obj",
+			"LowEntryLatentActionBoolean.cpp.obj",
+			"LowEntryLatentActionFloat.cpp.obj",
+			"LowEntryLatentActionInteger.cpp.obj",
+			"LowEntryLatentActionNone.cpp.obj",
+			"LowEntryLatentActionObject.cpp.obj",
+			"LowEntryLatentActionString.cpp.obj",
+			"LowEntryDouble.cpp.obj",
+			"LowEntryLong.cpp.obj",
+			"LowEntryExtendedStandardLibraryModule.cpp.obj"
+		],
+		"Module.LowEntryExtendedStandardLibrary.gen.1_of_3.cpp.obj": [
+			"ELowEntryBatteryState.gen.cpp.obj",
+			"ELowEntryExtendedStandardLibrary0to9.gen.cpp.obj",
+			"ELowEntryExtendedStandardLibrary1to10other.gen.cpp.obj",
+			"ELowEntryExtendedStandardLibraryTrueOrFalse.gen.cpp.obj",
+			"ELowEntryHmacAlgorithm.gen.cpp.obj",
+			"ELowEntryImageFormat.gen.cpp.obj",
+			"ELowEntryRGBFormat.gen.cpp.obj",
+			"ELowEntrySplitScreenType.gen.cpp.obj",
+			"ELowEntrySplitScreenTypeThreePlayers.gen.cpp.obj",
+			"ELowEntrySplitScreenTypeTwoPlayers.gen.cpp.obj",
+			"FLowEntryRegexCaptureGroup.gen.cpp.obj",
+			"FLowEntryRegexMatch.gen.cpp.obj",
+			"LowEntryBitDataEntry.gen.cpp.obj",
+			"LowEntryBitDataReader.gen.cpp.obj",
+			"LowEntryBitDataWriter.gen.cpp.obj"
+		],
+		"Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp.obj": [
+			"LowEntryByteArray.gen.cpp.obj",
+			"LowEntryByteDataEntry.gen.cpp.obj",
+			"LowEntryByteDataReader.gen.cpp.obj",
+			"LowEntryByteDataWriter.gen.cpp.obj",
+			"LowEntryDouble.gen.cpp.obj",
+			"LowEntryExecutionQueue.gen.cpp.obj",
+			"LowEntryExtendedStandardLibrary.gen.cpp.obj"
+		],
+		"Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp.obj": [
+			"LowEntryExtendedStandardLibrary.init.gen.cpp.obj",
+			"LowEntryLatentActionBoolean.gen.cpp.obj",
+			"LowEntryLatentActionFloat.gen.cpp.obj",
+			"LowEntryLatentActionInteger.gen.cpp.obj",
+			"LowEntryLatentActionNone.gen.cpp.obj",
+			"LowEntryLatentActionObject.gen.cpp.obj",
+			"LowEntryLatentActionString.gen.cpp.obj",
+			"LowEntryLong.gen.cpp.obj",
+			"LowEntryParsedHashcash.gen.cpp.obj"
+		]
+	}
+}
