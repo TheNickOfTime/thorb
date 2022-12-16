@@ -28,7 +28,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private
 /I ..\Intermediate\Build\Win64\UE4\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -334,10 +334,10 @@
 /I Runtime\AnimationCore
 /I Developer\Settings\Public
 /I Developer\Settings
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Inc\BlockoutToolsPlugin
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Source
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Inc\BlockoutToolsPlugin
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Source
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -361,18 +361,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Shipping\Engine\SharedPCH.Engine.h"
-/Yu"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Shipping\Engine\SharedPCH.Engine.h"
-/Fp"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Shipping\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp"
-/FI"D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Definitions.BlockoutToolsPlugin.h"
-/Fo"D:\Projects\NDQA-Game-Chill\Project\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Shipping\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Shipping\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Shipping\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp"
+/FI"C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Definitions.BlockoutToolsPlugin.h"
+/Fo"C:\Users\rylan\Documents\GitHub\thorb\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4\Shipping\BlockoutToolsPlugin\Module.BlockoutToolsPlugin.cpp.obj"
 /TP
 /GR-
 /W4

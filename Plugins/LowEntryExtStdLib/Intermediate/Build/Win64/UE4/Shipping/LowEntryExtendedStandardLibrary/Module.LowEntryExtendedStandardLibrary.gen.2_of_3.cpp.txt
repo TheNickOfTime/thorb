@@ -1,28 +1,28 @@
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Shipping\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteArray.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Shipping\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteArray.gen.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteArray.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteArray.generated.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataEntry.gen.cpp
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataEntry.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryLong.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryLong.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryDouble.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryDouble.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataEntry.generated.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataReader.gen.cpp
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataReader.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataReader.generated.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataWriter.gen.cpp
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataWriter.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataWriter.generated.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryDouble.gen.cpp
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryExecutionQueue.gen.cpp
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExecutionQueue.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryExecutionQueue.generated.h
-D:/Projects/NDQA-Game-Chill/Project/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryExtendedStandardLibrary.gen.cpp
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExtendedStandardLibrary.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteArray.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteArray.generated.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataEntry.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataEntry.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryLong.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryLong.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes\LowEntryDouble.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryDouble.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataEntry.generated.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataReader.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataReader.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataReader.generated.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryByteDataWriter.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryByteDataWriter.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryByteDataWriter.generated.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryDouble.gen.cpp
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryExecutionQueue.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExecutionQueue.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryExecutionQueue.generated.h
+C:/Users/rylan/Documents/GitHub/thorb/Plugins/LowEntryExtStdLib/Intermediate/Build/Win64/UE4/Inc/LowEntryExtendedStandardLibrary/LowEntryExtendedStandardLibrary.gen.cpp
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary/Public/Classes/LowEntryExtendedStandardLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture2D.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SceneCapture.generated.h
@@ -48,26 +48,26 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/Sc
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DelayAction.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\LatentActions.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexMatch.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexCaptureGroup.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexCaptureGroup.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexMatch.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexMatch.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\FLowEntryRegexCaptureGroup.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexCaptureGroup.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\FLowEntryRegexMatch.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary0to9.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary0to9.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary1to10other.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary1to10other.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibraryTrueOrFalse.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibraryTrueOrFalse.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryBatteryState.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryBatteryState.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryImageFormat.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryImageFormat.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryRGBFormat.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryRGBFormat.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryHmacAlgorithm.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryHmacAlgorithm.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary0to9.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary0to9.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibrary1to10other.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibrary1to10other.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryExtendedStandardLibraryTrueOrFalse.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryExtendedStandardLibraryTrueOrFalse.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryBatteryState.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryBatteryState.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryImageFormat.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryImageFormat.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryRGBFormat.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryRGBFormat.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntryHmacAlgorithm.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntryHmacAlgorithm.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Media\Public\IMediaPlayer.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\MediaAssets\Public\MediaPlayer.h
@@ -106,12 +106,12 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Publi
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\MediaAssets\MediaSoundComponent.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ImageUtils.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenType.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenType.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeTwoPlayers.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenType.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenType.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeTwoPlayers.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\EngineSettings\Classes\GameMapsSettings.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\EngineSettings\GameMapsSettings.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeTwoPlayers.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeThreePlayers.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeThreePlayers.generated.h
-D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryExtendedStandardLibrary.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeTwoPlayers.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes\ELowEntrySplitScreenTypeThreePlayers.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\ELowEntrySplitScreenTypeThreePlayers.generated.h
+C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary\LowEntryExtendedStandardLibrary.generated.h

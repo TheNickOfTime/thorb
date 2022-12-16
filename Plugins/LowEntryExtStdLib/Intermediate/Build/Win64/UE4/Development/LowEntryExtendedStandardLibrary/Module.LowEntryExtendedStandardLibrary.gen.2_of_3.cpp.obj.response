@@ -28,23 +28,23 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public
-/I D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Module
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\Classes
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesTypes
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private\ClassesLatentAction
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Private
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Inc\LowEntryExtendedStandardLibrary
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Module
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\Classes
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesTypes
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\ClassesLatentAction
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesLatentAction
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesTick
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesDelay
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public\FClassesExecutionQueue
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary\Public
+/I C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Source\LowEntryExtendedStandardLibrary
 /I ..\Intermediate\Build\Win64\UE4\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -395,18 +395,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Projects\NDQA-Game-Chill\Project\Intermediate\Build\Win64\Project\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp"
-/FI"D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h"
-/Fo"D:\Projects\NDQA-Game-Chill\Project\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\rylan\Documents\GitHub\thorb\Intermediate\Build\Win64\THORB\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp"
+/FI"C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Definitions.LowEntryExtendedStandardLibrary.h"
+/Fo"C:\Users\rylan\Documents\GitHub\thorb\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp.obj"
 /TP
 /GR-
 /W4
